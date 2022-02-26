@@ -1,1 +1,0 @@
-command! SpellCompleteOneline set completefunc=dnd5edb#AutoCompleteSpells

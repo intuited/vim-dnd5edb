@@ -1,6 +1,6 @@
-## vim-dnd5edb: vim interface to Python dnd5edb module
+## vim-legendlore: vim interface to Python legendlore module
 
-Vim module that provides convenient use of the Python dnd5edb module from within vim.
+Vim module that provides convenient use of the Python legendlore module from within vim.
 
 For now, this functionality is limited to autocomplete on spell names.
 
