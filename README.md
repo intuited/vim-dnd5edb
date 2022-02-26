@@ -6,7 +6,7 @@ For now, this functionality is limited to autocomplete on spell names.
 
 ### Spell Autocomplete
 
-Spell autocomplete is activated via the `SpellCompleteOneLine` command, after which point executing `^X^U` from Insert mode will autocomplete spell names left of the cursor.
+Spell autocomplete is activated via the `:LLSpellCompleteOneLine` command, after which point executing `^X^U` from Insert mode will autocomplete spell names left of the cursor.
 
 For example, with the cursor positioned at the end of the line
 

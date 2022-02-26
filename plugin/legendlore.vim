@@ -1,1 +1,1 @@
-command! SpellCompleteOneline set completefunc=legendlore#AutoCompleteSpells
+command! LLSpellCompleteOneline set completefunc=legendlore#AutoCompleteSpells
