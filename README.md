@@ -43,7 +43,7 @@ EG: `CO` is Order Cleric; `CLt` is Light Cleric; `CLf` is Life Cleric; `WlC` is 
 
 ### Material components with monetary value
 
-Material components which have a monetary value are notes as such:
+Material components which have a monetary value are noted as such:
 
     Identify (rit.) 1m/T/I [V/S/M@100gp] (1:A+Bd+CF+CK+Wz)
 
