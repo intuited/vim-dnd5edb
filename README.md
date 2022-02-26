@@ -52,3 +52,18 @@ Material components which have a monetary value are noted as such:
 If the material component is consumed by the spell, this is indicated by surrounding the value with exclamation points:
 
     Revivify A/T/I [V/S/M@!300!gp] (3:A+C+CG+CLf+D+DW+P+Ra+WlC)
+
+### Installation
+
+To use vim-legendlore:
+
+    $ cd ~/.vim/pack/default/start
+    $ git clone https://github.com/intuited/vim-legendlore
+
+You'll also need to install the Python legendlore module itself.  Change directory to somewhere in your `$PYTHONPATH` and then
+
+    $ git clone https://github.com/intuited/legendlore
+
+From there, change directory into the `legendlore` directory and follow installation/setup instructions in the README.
+
+Once you've got the Python module set up, you should be able to use `legendlore` from within Vim as described above.
