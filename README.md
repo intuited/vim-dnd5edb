@@ -24,12 +24,12 @@ Information about the spell is provided in a very concise format.  The format us
 
 where
 
-    - T: Casting time
-    - R: Range
-    - D: Duration (preceded by `C` if the spell requires Concentration)
-    - COMPONENTS: Verbal, Somatic, Material
-    - L: Spell level (`0` for cantrips)
-    - CLASSES: Classes and Subclasses which get the spell on their list.
+- T: Casting time
+- R: Range
+- D: Duration (preceded by `C` if the spell requires Concentration)
+- COMPONENTS: Verbal, Somatic, Material
+- L: Spell level (`0` for cantrips)
+- CLASSES: Classes and Subclasses which get the spell on their list.
 
 ### Classes
 
