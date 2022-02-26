@@ -2,11 +2,11 @@
 
 Vim module that provides convenient use of the Python legendlore module from within vim.
 
-### Spell Autocomplete
-
 For now, this functionality is limited to autocomplete on spell names.
 
-This is activated via the `SpellCompleteOneLine` command, after which point executing `^X^U` from Insert mode will autocomplete spell names left of the cursor.
+### Spell Autocomplete
+
+Spell autocomplete is activated via the `SpellCompleteOneLine` command, after which point executing `^X^U` from Insert mode will autocomplete spell names left of the cursor.
 
 For example, with the cursor positioned at the end of the line
 
