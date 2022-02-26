@@ -50,5 +50,3 @@ Material components which have a monetary value are notes as such:
 If the material component is consumed by the spell, this is indicated by surrounding the value with exclamation points:
 
     Revivify A/T/I [V/S/M@!300!gp] (3:A+C+CG+CLf+D+DW+P+Ra+WlC)
-
-    Fireball A/150'/I [V/S/M] (3:AArt+CLt+S+WlFi+WlGe+Wz)
