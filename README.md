@@ -29,7 +29,17 @@ where
     - D: Duration (preceded by `C` if the spell requires Concentration)
     - COMPONENTS: Verbal, Somatic, Material
     - L: Spell level (`0` for cantrips)
-    - CLASSES: Classes and Subclasses which get the spell on their list.  B is Bard, C is Cleric, Wl is Warlock, Wz is Wizard, CO is Order Cleric, etc.  More detailed documentation will be found in the readme for `dnd5edb`.
+    - CLASSES: Classes and Subclasses which get the spell on their list.
+
+### Classes
+
+Class abbreviations are one letter if that is sufficient to unambiguously identify them; otherwise 2 letters are used.
+
+For example: B is Bard, C is Cleric, Wl is Warlock, Wz is Wizard.
+
+If the spell is on the list of a subclass but not the main class, the class and subclass are given together, again using 1- or 2-letter abbreviations.
+
+EG: CO is Order Cleric; CLt is Light Cleric; CLf is Life Cleric; WlC is Celestial Warlock.
 
 ### Material components with monetary value
 
@@ -40,3 +50,5 @@ Material components which have a monetary value are notes as such:
 If the material component is consumed by the spell, this is indicated by surrounding the value with exclamation points:
 
     Revivify A/T/I [V/S/M@!300!gp] (3:A+C+CG+CLf+D+DW+P+Ra+WlC)
+
+    Fireball A/150'/I [V/S/M] (3:AArt+CLt+S+WlFi+WlGe+Wz)
