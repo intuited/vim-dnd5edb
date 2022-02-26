@@ -35,11 +35,11 @@ where
 
 Class abbreviations are one letter if that is sufficient to unambiguously identify them; otherwise 2 letters are used.
 
-For example: B is Bard, C is Cleric, Wl is Warlock, Wz is Wizard.
+For example: `B` is Bard, `C` is Cleric, `Wl` is Warlock, `Wz` is Wizard.
 
 If the spell is on the list of a subclass but not the main class, the class and subclass are given together, again using 1- or 2-letter abbreviations.
 
-EG: CO is Order Cleric; CLt is Light Cleric; CLf is Life Cleric; WlC is Celestial Warlock.
+EG: `CO` is Order Cleric; `CLt` is Light Cleric; `CLf` is Life Cleric; `WlC` is Celestial Warlock.
 
 ### Material components with monetary value
 
